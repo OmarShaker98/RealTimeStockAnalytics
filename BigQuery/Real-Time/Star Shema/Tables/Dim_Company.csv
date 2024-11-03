@@ -1,0 +1,23 @@
+company_id,business_id,Company,industry,sector
+1,GS-Capital Markets-Financial Services,GS,Capital Markets,Financial Services
+2,MA-Credit Services-Financial Services,MA,Credit Services,Financial Services
+3,XOM-Oil & Gas-Energy,XOM,Oil & Gas,Energy
+4,MSFT-Software-Technology,MSFT,Software,Technology
+5,CRM-Software-Technology,CRM,Software,Technology
+6,CVX-Oil & Gas-Energy,CVX,Oil & Gas,Energy
+7,HON-Conglomerates-Industrials,HON,Conglomerates,Industrials
+8,TRV-Insurance-Financial Services,TRV,Insurance,Financial Services
+9,GOOGL-Internet Content-Communication Services,GOOGL,Internet Content,Communication Services
+10,V-Credit Services-Financial Services,V,Credit Services,Financial Services
+11,COP-Oil & Gas-Energy,COP,Oil & Gas,Energy
+12,EOG-Oil & Gas Exploration & Production-Energy,EOG,Oil & Gas Exploration & Production,Energy
+13,AAPL-Consumer Electronics-Technology,AAPL,Consumer Electronics,Technology
+14,CSCO-Communication Equipment-Technology,CSCO,Communication Equipment,Technology
+15,NVDA-Semiconductors-Technology,NVDA,Semiconductors,Technology
+16,BRK-B-Insurance-Financial Services,BRK-B,Insurance,Financial Services
+17,INTC-Semiconductors-Technology,INTC,Semiconductors,Technology
+18,BA-Aerospace & Defense-Industrials,BA,Aerospace & Defense,Industrials
+19,CAT-Construction Machinery-Industrials,CAT,Construction Machinery,Industrials
+20,IBM-IT Services-Technology,IBM,IT Services,Technology
+21,JPM-Banking-Financial Services,JPM,Banking,Financial Services
+22,PSX-Refining & Marketing-Energy,PSX,Refining & Marketing,Energy

@@ -1,0 +1,14 @@
+[Unit]
+Description=Apache Airflow Scheduler
+After=network.target
+
+[Service]
+User=<YOUR_USERNAME>
+Group=<YOUR_GROUP>
+Environment="AIRFLOW_HOME=/path/to/your/airflow"
+ExecStart=/path/to/your/airflow/bin/airflow scheduler
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

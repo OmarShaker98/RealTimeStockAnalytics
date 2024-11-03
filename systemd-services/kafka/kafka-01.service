@@ -1,0 +1,16 @@
+[Unit]
+Description=Apache Kafka Service
+Documentation=https://kafka.apache.org
+After=zookeeper.service
+
+[Service]
+Type=simple
+User=<YOUR_USERNAME>
+Group=<YOUR_GROUP>
+ExecStart=/home/<YOUR_USERNAME>/kafka/bin/kafka-server-start.sh /home/<YOUR_USERNAME>/kafka/config/server.properties
+ExecStop=/home/<YOUR_USERNAME>/kafka/bin/kafka-server-stop.sh
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

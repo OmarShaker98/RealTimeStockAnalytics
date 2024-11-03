@@ -1,0 +1,23 @@
+company_id,business_id,Company,industry,sector
+1,JPM-Banking-Financial Services,JPM,Banking,Financial Services
+2,CRM-Software-Technology,CRM,Software,Technology
+3,MSFT-Software-Technology,MSFT,Software,Technology
+4,BRK-B-Insurance-Financial Services,BRK-B,Insurance,Financial Services
+5,TRV-Insurance-Financial Services,TRV,Insurance,Financial Services
+6,COP-Oil & Gas-Energy,COP,Oil & Gas,Energy
+7,XOM-Oil & Gas-Energy,XOM,Oil & Gas,Energy
+8,CVX-Oil & Gas-Energy,CVX,Oil & Gas,Energy
+9,IBM-IT Services-Technology,IBM,IT Services,Technology
+10,HON-Conglomerates-Industrials,HON,Conglomerates,Industrials
+11,NVDA-Semiconductors-Technology,NVDA,Semiconductors,Technology
+12,INTC-Semiconductors-Technology,INTC,Semiconductors,Technology
+13,GS-Capital Markets-Financial Services,GS,Capital Markets,Financial Services
+14,V-Credit Services-Financial Services,V,Credit Services,Financial Services
+15,MA-Credit Services-Financial Services,MA,Credit Services,Financial Services
+16,GOOGL-Internet Content-Communication Services,GOOGL,Internet Content,Communication Services
+17,BA-Aerospace & Defense-Industrials,BA,Aerospace & Defense,Industrials
+18,AAPL-Consumer Electronics-Technology,AAPL,Consumer Electronics,Technology
+19,PSX-Refining & Marketing-Energy,PSX,Refining & Marketing,Energy
+20,CAT-Construction Machinery-Industrials,CAT,Construction Machinery,Industrials
+21,CSCO-Communication Equipment-Technology,CSCO,Communication Equipment,Technology
+22,EOG-Oil & Gas Exploration & Production-Energy,EOG,Oil & Gas Exploration & Production,Energy

@@ -1,0 +1,3 @@
+After the data transformation, it is loaded into
+a BigQuery table that is partitioned by day and 
+clustered by company, sector, and industry.

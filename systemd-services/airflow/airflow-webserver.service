@@ -1,0 +1,14 @@
+[Unit]
+Description=Apache Airflow
+After=network.target
+
+[Service]
+User=airflow
+Group=airflow
+Environment="AIRFLOW_HOME=/your/path/to/your/airflow/installation" 
+ExecStart=/path/to/your/airflow/bin/airflow webserver --port 8080
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
